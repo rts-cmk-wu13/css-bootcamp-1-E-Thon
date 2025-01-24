@@ -48,6 +48,10 @@ h3 {
     margin: 2em 1em;
 }
 
+article div img {
+    width: 50%;
+}
+
 footer table tr:last-of-type, header ul li:last-of-type {
     border-collapse: collapse;
     background-color: black;
