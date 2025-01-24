@@ -51,6 +51,10 @@ h3 {
 article div img {
     width: 50%;
 }
+article div img:first-of-type {
+    float: right;
+    padding-right: 2em;
+}
 
 footer table tr:last-of-type, header ul li:last-of-type {
     border-collapse: collapse;
